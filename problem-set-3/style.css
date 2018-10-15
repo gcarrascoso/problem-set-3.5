@@ -52,3 +52,13 @@ ol
 hr {
   border-color: #27775f;
 }
+
+img {
+  border-radius: 25px;
+  border-width: medium;
+  border: 6px solid #27775f;
+}
+
+a:hover {
+  color: #27775f;
+}
