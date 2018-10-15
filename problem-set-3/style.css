@@ -57,6 +57,8 @@ img {
   border-radius: 25px;
   border-width: medium;
   border: 6px solid #27775f;
+  height: 180;
+  width: 320;
 }
 
 a:hover {
