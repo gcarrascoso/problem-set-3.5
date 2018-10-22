@@ -60,3 +60,18 @@ img {
 a:hover {
   color: #27775f;
 }
+
+fun {
+  font-family: cursive;
+  font-style: oblique;
+}
+
+important {
+  font-family: cursive;
+  font-weight: bolder;
+}
+
+inspir {
+  text-decoration: underline;
+}
+
