@@ -98,3 +98,15 @@ inspir {
 #big {
   font-family: serif;
 }
+
+h4 + h3 {
+  font-stretch: semi-expanded;
+}
+
+.highlight + p {
+  font-weight: 100;
+}
+
+#captiom + .title {
+  font-stretch: semi-condensed;
+}
