@@ -79,3 +79,6 @@ inspir {
   text-decoration: underline;
 }
 
+.highlight {
+  text-transform: capitalize;
+}
