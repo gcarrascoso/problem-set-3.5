@@ -90,3 +90,7 @@ inspir {
 #caption {
   text-decoration: underline;
 }
+
+#description {
+  font-family: fantasy;
+}
