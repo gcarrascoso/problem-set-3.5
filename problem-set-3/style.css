@@ -86,3 +86,7 @@ inspir {
 .list {
   list-style-position: inside;
 }
+
+#caption {
+  text-decoration: underline;
+}
